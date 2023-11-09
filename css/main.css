@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: #565656;
+}
+.card{
+    width: 344px;
+    margin: 29px 237px 246px 0px;
+    border-radius: 15px;
+    background:  #FFF;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+.card_img{
+    padding: 29px 237px 20px 31px;
+}
+.card_title{
+    padding: 0px 34px 15px 31px;
+}
+.card_p{
+    padding: 0px 17px 30px 10px;
+    color: rgba(55, 71, 79, 0.72);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 175% */
+    letter-spacing: 0.444px;    
+}
+.card_link{
+    padding: 0px 100px 34px 31px;
+    color: #717CFF;    
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.439px;
+}
+
+.news{
+    margin: 40px 0px 40px 148px;
+    width: 344px;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 6px 42px 0px rgba(0, 0, 0, 0.10);
+}
+.news_date{
+    color: #565656;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;  
+         
+}
+.news_img{
+    margin: 0px;
+    padding: 0px;
+    width: 344px;
+}
+.news_p{
+    color: #252525;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;  
+    padding: 20px 27px 60px 10px;  
+}
+.news_icon{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.news_date{
+    padding-left: 10px;
+}
+
+.country{
+    margin-left: 40px;
+    padding: 0px;
+    width: 348px;
+    margin-bottom: 30px;
+}
+.country_title{
+    color: #53c0f6;
+    font-family: Roboto;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.country_p{
+    color: rgba(10, 160, 235, 0.72);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 27px;
+}
